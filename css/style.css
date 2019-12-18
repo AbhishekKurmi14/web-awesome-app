@@ -1,0 +1,440 @@
+html,
+body {
+    margin: 0px
+}
+
+* {
+    box-sizing: border-box
+}
+
+.menubar {
+    padding: 30px;
+    background-color: #f44335;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_a {
+    width: 55%;
+    float: left
+}
+
+.menubar_logo {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    margin: 20px 10px
+}
+
+.menubar_app_name {
+    width: 160px;
+    height: 40px;
+    background-color: white;
+    float: left;
+    margin: 25px 10px
+}
+
+.container_b {
+    width: 45%;
+    float: right
+}
+
+.list_item {
+    width: 70px;
+    height: 30px;
+    background-color: white;
+    float: left;
+    margin: 30px 20px
+}
+
+.list_item_a {
+    width: 90px;
+    height: 30px;
+    background-color: white;
+    float: left;
+    margin: 30px 20px
+}
+
+.list_item_b {
+    width: 110px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    margin: 20px 20px
+}
+
+.main_container {
+    width: 60%;
+    float: left
+}
+
+.container_c {
+    padding: 30px;
+    background-color: #f44335
+}
+
+.container_d {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_heading {}
+
+.container_header_text {
+    width: 290px;
+    height: 60px;
+    background-color: white;
+    margin: 10px
+}
+
+.container_header_text_a {
+    width: 450px;
+    height: 60px;
+    background-color: white;
+    margin: 30px 10px
+}
+
+.container_paragraph {}
+
+.container_header_text_b {
+    width: 550px;
+    height: 20px;
+    background-color: white;
+    margin: 10px 10px
+}
+
+.container_header_text_c {
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    margin: 15px 10px
+}
+
+.container_list {}
+
+.container_header_text_d {
+    width: 250px;
+    height: 20px;
+    background-color: white;
+    margin: 30px 10px
+}
+
+.container_header_text_e {
+    width: 350px;
+    height: 20px;
+    background-color: white;
+    margin: 25px 10px
+}
+
+.container_header_text_f {
+    width: 220px;
+    height: 20px;
+    background-color: white;
+    margin: 25px 10px
+}
+
+.button {
+    width: 130px;
+    height: 30px;
+    background-color: white;
+    margin: 40px 10px
+}
+
+.main_container_a {
+    width: 40%;
+    float: right
+}
+
+.container_image {
+    width: 100%;
+    height: 450px;
+    background-color: white;
+}
+
+.container_e {
+    padding: 60px;
+}
+
+.container_f {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_right {
+    width: 33.33%;
+    float: left
+}
+
+.list_box {
+    width: 70px;
+    height: 70px;
+    background-color: #f5593d;
+    float: left
+}
+
+.description {
+    float: left;
+}
+
+.item {
+    height: 30px;
+    width: 200px;
+    background-color: black;
+    margin: 0px 15px
+}
+
+.item_paragraph {
+    height: 50px;
+    width: 250px;
+    background-color: #999;
+    margin: 30px 15px
+}
+
+.container_g {
+    padding: 40px;
+}
+
+.container_h {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_left {
+    width: 40%;
+    float: left
+}
+
+.square {
+    width: 90%;
+    height: 450px;
+    background-color: #111429
+}
+
+.container_i {
+    width: 60%;
+    float: right;
+    padding: 30px
+}
+
+.list_item_heading {
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    margin: 10px
+}
+
+.list_item_paragraph {}
+
+.paragraph_a {
+    width: 95%;
+    height: 25px;
+    background-color: #555;
+    margin: 15px 10px
+}
+
+.paragraph_b {
+    width: 35%;
+    height: 25px;
+    background-color: #555;
+    margin: 15px 10px
+}
+
+.list_item_paragraph_1 {
+    padding: 20px 0px 5px 0px
+}
+
+.list_item_paragraph_2 {}
+
+.paragraph_c {
+    width: 45%;
+    height: 25px;
+    background-color: #555;
+    margin: 15px 10px
+}
+
+.paragraph_d {
+    width: 50%;
+    height: 25px;
+    background-color: #555;
+    margin: 15px 10px
+}
+
+.paragraph_e {
+    width: 40%;
+    height: 25px;
+    background-color: #555;
+    margin: 15px 10px
+}
+
+.container_j {
+    padding: 40px;
+    background-color: #F5FAFD
+}
+
+.container_k {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.item_heading_1 {
+    height: 60px;
+    width: 500px;
+    background-color: black;
+    margin: auto
+}
+
+.item_paragraph_1 {}
+
+.item_paragraph_2 {
+    height: 25px;
+    width: 800px;
+    background-color: #555;
+    margin: 20px auto
+}
+
+.item_paragraph_3 {
+    height: 25px;
+    width: 400px;
+    background-color: #555;
+    margin: 20px auto
+}
+
+.card {
+    height: 500px;
+    width: 100%;
+    padding: 20px;
+}
+
+.card_1 {
+    background-color: #00bcd4;
+    height: 100%;
+    width: 100%;
+}
+
+.container_l {
+    padding: 40px
+}
+
+.container_m {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.card_2 {
+    width: 25%;
+    height: 550px;
+    padding: 20px;
+    float: left
+}
+
+.card_3 {
+    background-color: #F5FAFD;
+    width: 100%;
+    height: 100%
+}
+
+.container_n {
+    padding: 40px
+}
+
+.container_o {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.card_4 {
+    height: 200px;
+    width: 33.33%;
+    padding: 20px;
+    float: left
+}
+
+.card_5 {
+    background-color: #F5FAFD;
+    width: 100%;
+    height: 100%
+}
+
+.container_p {
+    padding: 40px;
+    background-color: #f44335
+}
+
+.container_q {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.item_paragraph_4 {
+    height: 50px;
+    width: 450px;
+    background-color: white;
+    margin: 15px auto
+}
+
+.card_6 {
+    height: 150px;
+    width: 33.33%;
+    padding: 20px;
+    float: left
+}
+
+.card_7 {
+    background-color: white;
+    width: 100%;
+    height: 100%
+}
+
+.container_r {
+    padding: 40px;
+    background-color: black
+}
+
+.container_s {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_t {
+width:25%;
+    margin: auto;
+    overflow: auto;
+
+}
+
+.facebook_button {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin: auto 10px;
+    float: left
+}
+
+.container_text {}
+
+.container_text_1 {
+    height: 25px;
+    width: 300px;
+    background-color: white;
+    margin: 10px auto
+}
+.container_text_2{
+    height: 25px;
+    width: 200px;
+    background-color: white;
+    margin: 10px auto
+}
+.items {}
