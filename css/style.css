@@ -186,20 +186,17 @@ body {
     width: 80%;
     float: right
 }
-.description {
-    float: left;
-}
 
 .item {
     height: 30px;
-    width: 200px;
+    width: 90%;
     background-color: black;
     margin: 0px 15px
 }
 
 .item_paragraph {
     height: 50px;
-    width: 250px;
+    width: 90%;
     background-color: #999;
     margin: 30px 15px
 }
